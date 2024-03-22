@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/érico-panazzolo-a98406221/"
+    href="[https://linkedin.com/in/https://www.linkedin.com/in/érico-panazzolo-a98406221/](https://www.linkedin.com/in/érico-panazzolo-a98406221/)"
     target="blank"
     ><img
       align="center"

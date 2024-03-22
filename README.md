@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, I'm Érico Panazzolo</h2>
 <h4 align="center">A dedicated Cybsercurity Professional from Brazil</h4>
 
-- 🔭 I’m currently working on **Pi Squared GmbH, WSS Security, and Pure AI**
+- 🔭 I’m currently working at **Pi Squared GmbH, WSS Security, and Pure AI**
 
-- 🌱 I’m currently learning **Cryptography and Networks**
+- 🌱 I’m currently learning **Cryptography, Networks, NextJS, AI**
 
 - 👯 I’m looking to collaborate on **A CTF group**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Érico Panazzolo</h1>
-<h3 align="center">A dedicated Cybsercurity from Brazil</h3>
+<h3 align="center">A dedicated Cybsercurity Professional from Brazil</h3>
 
 <!-- - 🔭 I’m currently working on **Pi Squared GmbH, WSS Security, and Pure AI**
 

@@ -123,6 +123,14 @@
       height="40"
     />
   </a>
+  <a href="https://www.kali.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-icon-256x256-kqzey6qu.png"
+      alt="nextjs"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -143,6 +151,14 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-plain.svg#L1"
+      alt="nextjs"
       width="40"
       height="40"
     />

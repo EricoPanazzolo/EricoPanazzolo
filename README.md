@@ -25,7 +25,7 @@
       height="30"
       width="40"
   /></a>
-  <a
+<!--   <a
     href="https://instagram.com/https://www.instagram.com/erico_panazzolo/"
     target="blank"
     ><img
@@ -34,7 +34,7 @@
       alt="https://www.instagram.com/erico_panazzolo/"
       height="30"
       width="40"
-  /></a>
+  /></a> -->
   <a href="https://medium.com/@ericopanassol" target="blank"
     ><img
       align="center"

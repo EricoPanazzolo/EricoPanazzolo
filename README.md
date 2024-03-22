@@ -9,7 +9,7 @@
 
 - 📝 I write articles on [https://medium.com/@ericopanassol](https://medium.com/@ericopanassol)
 
-- 💬 Ask me about **Cybersecurity, Pentest, Capture The Flag**
+- 💬 Ask me about **Cybersecurity**
 
 - ⚡ Fun fact **I'm a CTF player**
 

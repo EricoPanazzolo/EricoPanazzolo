@@ -1,17 +1,17 @@
 <h2 align="center">Hi 👋, I'm Érico Panazzolo</h2>
 <h4 align="center">A dedicated Cybsercurity Professional from Brazil</h4>
 
-- 🔭 I’m currently working at **Pi Squared GmbH, WSS Security, and Pure AI**
+- I’m currently working at **Pi Squared GmbH, WSS Security, and Pure AI**
 
-- 🌱 I’m currently learning **Cryptography, Networks, NextJS, AI**
+- I’m currently learning **Cryptography, Networks, NextJS, AI**
 
-- 👯 I’m looking to collaborate on **A CTF group**
+- I’m looking to collaborate on **A CTF group**
 
-- 📝 I write articles on [https://medium.com/@ericopanassol](https://medium.com/@ericopanassol)
+- I write articles on [https://medium.com/@ericopanassol](https://medium.com/@ericopanassol)
 
-- 💬 Ask me about **Cybersecurity**
+- Ask me about **Cybersecurity**
 
-- ⚡ Fun fact **I'm a CTF player**
+- Fun fact **I'm a CTF player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
